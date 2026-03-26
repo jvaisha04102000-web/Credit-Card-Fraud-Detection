@@ -58,3 +58,8 @@ Run the app locally:
 
 ```bash
 streamlit run app.py
+
+---
+
+## 📊 Dashboard Preview
+![Dashboard](dashboard.png)
